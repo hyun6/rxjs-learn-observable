@@ -1,0 +1,10 @@
+**/node_modules
+**/*.json
+
+**/build
+**/coverage
+**/doc
+
+dist
+build
+tsc_build
